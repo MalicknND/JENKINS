@@ -30,7 +30,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo 'Deploying application...'
-                // Ici, vous pouvez ajouter un script de déploiement personnalisé
+                // Ici, vous pouvez ajouter un script de déploiement personnalisé 
             }
         }
     }
